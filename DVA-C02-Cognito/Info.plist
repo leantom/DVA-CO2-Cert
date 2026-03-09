@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CognitoClientId</key>
+	<string>YOUR_COGNITO_APP_CLIENT_ID</string>
+	<key>CognitoRegion</key>
+	<string>us-east-1</string>
+	<key>CognitoUserPoolId</key>
+	<string>us-east-1_XXXXXXXXX</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
